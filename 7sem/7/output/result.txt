@@ -1,0 +1,60 @@
+phrase:      سوسکهامیتوانندتاچندهفتهبدونسرزندگیکنندواززبالهتغذیهکنند
+detected:    سوسکهامیتواننرتاچنرهفتهبرونسرزنرگیکننرواززبالهتغذیهکننر
+correct:     90%
+
+has | got | correct
+س	س	True
+و	و	True
+س	س	True
+ک	ک	True
+ه	ه	True
+ا	ا	True
+م	م	True
+ی	ی	True
+ت	ت	True
+و	و	True
+ا	ا	True
+ن	ن	True
+ن	ن	True
+د	ر	False
+ت	ت	True
+ا	ا	True
+چ	چ	True
+ن	ن	True
+د	ر	False
+ه	ه	True
+ف	ف	True
+ت	ت	True
+ه	ه	True
+ب	ب	True
+د	ر	False
+و	و	True
+ن	ن	True
+س	س	True
+ر	ر	True
+ز	ز	True
+ن	ن	True
+د	ر	False
+گ	گ	True
+ی	ی	True
+ک	ک	True
+ن	ن	True
+ن	ن	True
+د	ر	False
+و	و	True
+ا	ا	True
+ز	ز	True
+ز	ز	True
+ب	ب	True
+ا	ا	True
+ل	ل	True
+ه	ه	True
+ت	ت	True
+غ	غ	True
+ذ	ذ	True
+ی	ی	True
+ه	ه	True
+ک	ک	True
+ن	ن	True
+ن	ن	True
+د	ر	False
